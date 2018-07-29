@@ -1,4 +1,4 @@
-# nagios
+# Monitoring optical diagnostics for juniper devices
 Python3 script used in nagios for monitoring tranciever parameters.
 
 To install use:
